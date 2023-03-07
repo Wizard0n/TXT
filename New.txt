@@ -1,6 +1,11 @@
-mkdit
-cd
-touch
-lm
-qw
-cat
+{
+
+         "user_name":   "Oleksandr Denysiuk"
+	 "user_age":    "24"
+	 "user_pets":   "0"
+	 "user_salary": "1500"
+
+
+
+
+}
