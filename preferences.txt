@@ -1,0 +1,7 @@
+{
+ Preferences:
+ Favorite Movie: Gentlemen"
+ Favorite Serial: Big Bang Theory
+ Like Season: Winter
+ Favorite country: Prague
+}
