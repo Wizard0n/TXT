@@ -2,4 +2,4 @@
  1.Favorite Movie: Gentlemen"
  2.Favorite Serial: Big Bang Theory
  3.Like Season: Winter
- 4.Favorite country: Prague
+ 4.Favorite country: Czech
