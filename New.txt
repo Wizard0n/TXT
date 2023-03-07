@@ -1,11 +1,5 @@
-{
-
-         "user_name":   "Oleksandr Denysiuk"
-	 "user_age":    "24"
-	 "user_pets":   "0"
-	 "user_salary": "1500"
-
-
-
-
-}
+Person:
+1. name: Oleksandr Denysiuk
+2. age: 24
+3. pets: 0
+4. salary: 1500
