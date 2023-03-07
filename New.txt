@@ -1,0 +1,6 @@
+mkdit
+cd
+touch
+lm
+qw
+cat
